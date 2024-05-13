@@ -31,4 +31,4 @@ I'm a strong believer in well-rounded development, so I actively seek opportunit
 * [![[CSS3 Badge]](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/List_group_with_badges)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 * [![[JavaScript Badge]](https://developer.mozilla.org/en-US/docs/Web/API/Notification/badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [![[React Badge]](https://simpleicons.org/)](https://legacy.reactjs.org/)
-*
+
